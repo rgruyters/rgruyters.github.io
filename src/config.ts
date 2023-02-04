@@ -45,7 +45,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mastodon",
-    href: "https://mastodon.social/@rgruyters",
+    href: "https://subculture.chat/@robin",
     linkTitle: `${SITE.title} on Mastodon`,
     active: true,
   },
